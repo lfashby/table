@@ -1,0 +1,1392 @@
+[
+    {
+        "aze_phonetic.tsv": {
+            "iso639_code": "aze",
+            "iso639_name": "Azerbaijani",
+            "wiktionary_name": "Azerbaijani",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1841
+        }
+    },
+    {
+        "fao_phonetic.tsv": {
+            "iso639_code": "fao",
+            "iso639_name": "Faroese",
+            "wiktionary_name": "Faroese",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1137
+        }
+    },
+    {
+        "gle_phonetic.tsv": {
+            "iso639_code": "gle",
+            "iso639_name": "Irish",
+            "wiktionary_name": "Irish",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1739
+        }
+    },
+    {
+        "sme_phonemic.tsv": {
+            "iso639_code": "sme",
+            "iso639_name": "Northern Sami",
+            "wiktionary_name": "Northern Sami",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 3353
+        }
+    },
+    {
+        "por_phonetic.tsv": {
+            "iso639_code": "por",
+            "iso639_name": "Portuguese",
+            "wiktionary_name": "Portuguese",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1283
+        }
+    },
+    {
+        "lit_phonetic.tsv": {
+            "iso639_code": "lit",
+            "iso639_name": "Lithuanian",
+            "wiktionary_name": "Lithuanian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 12730
+        }
+    },
+    {
+        "nob_phonetic.tsv": {
+            "iso639_code": "nob",
+            "iso639_name": "Norwegian Bokm\u00e5l",
+            "wiktionary_name": "Norwegian Bokm\u00e5l",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 509
+        }
+    },
+    {
+        "mon_phonemic.tsv": {
+            "iso639_code": "mon",
+            "iso639_name": "Mongolian",
+            "wiktionary_name": "Mongolian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 987
+        }
+    },
+    {
+        "ltz_phonetic.tsv": {
+            "iso639_code": "ltz",
+            "iso639_name": "Luxembourgish",
+            "wiktionary_name": "Luxembourgish",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1825
+        }
+    },
+    {
+        "mac_phonemic.tsv": {
+            "iso639_code": "mac",
+            "iso639_name": "Macedonian",
+            "wiktionary_name": "Macedonian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 400
+        }
+    },
+    {
+        "ang_phonemic.tsv": {
+            "iso639_code": "ang",
+            "iso639_name": "Old English (ca. 450-1100)",
+            "wiktionary_name": "Old English",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 6249
+        }
+    },
+    {
+        "mac_phonetic.tsv": {
+            "iso639_code": "mac",
+            "iso639_name": "Macedonian",
+            "wiktionary_name": "Macedonian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 4752
+        }
+    },
+    {
+        "ang_phonetic.tsv": {
+            "iso639_code": "ang",
+            "iso639_name": "Old English (ca. 450-1100)",
+            "wiktionary_name": "Old English",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1151
+        }
+    },
+    {
+        "ltz_phonemic.tsv": {
+            "iso639_code": "ltz",
+            "iso639_name": "Luxembourgish",
+            "wiktionary_name": "Luxembourgish",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 4086
+        }
+    },
+    {
+        "por_phonemic.tsv": {
+            "iso639_code": "por",
+            "iso639_name": "Portuguese",
+            "wiktionary_name": "Portuguese",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 20336
+        }
+    },
+    {
+        "lit_phonemic.tsv": {
+            "iso639_code": "lit",
+            "iso639_name": "Lithuanian",
+            "wiktionary_name": "Lithuanian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 294
+        }
+    },
+    {
+        "nob_phonemic.tsv": {
+            "iso639_code": "nob",
+            "iso639_name": "Norwegian Bokm\u00e5l",
+            "wiktionary_name": "Norwegian Bokm\u00e5l",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 886
+        }
+    },
+    {
+        "mon_phonetic.tsv": {
+            "iso639_code": "mon",
+            "iso639_name": "Mongolian",
+            "wiktionary_name": "Mongolian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 437
+        }
+    },
+    {
+        "gle_phonemic.tsv": {
+            "iso639_code": "gle",
+            "iso639_name": "Irish",
+            "wiktionary_name": "Irish",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 6720
+        }
+    },
+    {
+        "aze_phonemic.tsv": {
+            "iso639_code": "aze",
+            "iso639_name": "Azerbaijani",
+            "wiktionary_name": "Azerbaijani",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 214
+        }
+    },
+    {
+        "fao_phonemic.tsv": {
+            "iso639_code": "fao",
+            "iso639_name": "Faroese",
+            "wiktionary_name": "Faroese",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 1645
+        }
+    },
+    {
+        "tam_phonemic.tsv": {
+            "iso639_code": "tam",
+            "iso639_name": "Tamil",
+            "wiktionary_name": "Tamil",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 1073
+        }
+    },
+    {
+        "egy_phonemic.tsv": {
+            "iso639_code": "egy",
+            "iso639_name": "Egyptian (Ancient)",
+            "wiktionary_name": "Egyptian",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 3645
+        }
+    },
+    {
+        "pol_phonemic.tsv": {
+            "iso639_code": "pol",
+            "iso639_name": "Polish",
+            "wiktionary_name": "Polish",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 60352
+        }
+    },
+    {
+        "alb_phonetic.tsv": {
+            "iso639_code": "alb",
+            "iso639_name": "Albanian",
+            "wiktionary_name": "Albanian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 713
+        }
+    },
+    {
+        "enm_phonemic.tsv": {
+            "iso639_code": "enm",
+            "iso639_name": "Middle English (1100-1500)",
+            "wiktionary_name": "Middle English",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 6473
+        }
+    },
+    {
+        "dsb_phonetic.tsv": {
+            "iso639_code": "dsb",
+            "iso639_name": "Lower Sorbian",
+            "wiktionary_name": "Lower Sorbian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1331
+        }
+    },
+    {
+        "geo_phonemic.tsv": {
+            "iso639_code": "geo",
+            "iso639_name": "Georgian",
+            "wiktionary_name": "Georgian",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 14037
+        }
+    },
+    {
+        "dsb_phonemic.tsv": {
+            "iso639_code": "dsb",
+            "iso639_name": "Lower Sorbian",
+            "wiktionary_name": "Lower Sorbian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 1916
+        }
+    },
+    {
+        "geo_phonetic.tsv": {
+            "iso639_code": "geo",
+            "iso639_name": "Georgian",
+            "wiktionary_name": "Georgian",
+            "casefold": "False",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 44
+        }
+    },
+    {
+        "enm_phonetic.tsv": {
+            "iso639_code": "enm",
+            "iso639_name": "Middle English (1100-1500)",
+            "wiktionary_name": "Middle English",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 40
+        }
+    },
+    {
+        "alb_phonemic.tsv": {
+            "iso639_code": "alb",
+            "iso639_name": "Albanian",
+            "wiktionary_name": "Albanian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 1160
+        }
+    },
+    {
+        "egy_phonetic.tsv": {
+            "iso639_code": "egy",
+            "iso639_name": "Egyptian (Ancient)",
+            "wiktionary_name": "Egyptian",
+            "casefold": "False",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 2
+        }
+    },
+    {
+        "arm_phonetic.tsv": {
+            "iso639_code": "arm",
+            "iso639_name": "Armenian",
+            "wiktionary_name": "Armenian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 13862
+        }
+    },
+    {
+        "pol_phonetic.tsv": {
+            "iso639_code": "pol",
+            "iso639_name": "Polish",
+            "wiktionary_name": "Polish",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 66
+        }
+    },
+    {
+        "tam_phonetic.tsv": {
+            "iso639_code": "tam",
+            "iso639_name": "Tamil",
+            "wiktionary_name": "Tamil",
+            "casefold": "False",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1014
+        }
+    },
+    {
+        "epo_phonemic.tsv": {
+            "iso639_code": "epo",
+            "iso639_name": "Esperanto",
+            "wiktionary_name": "Esperanto",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 13926
+        }
+    },
+    {
+        "dan_phonemic.tsv": {
+            "iso639_code": "dan",
+            "iso639_name": "Danish",
+            "wiktionary_name": "Danish",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 3658
+        }
+    },
+    {
+        "bur_phonemic.tsv": {
+            "iso639_code": "bur",
+            "iso639_name": "Burmese",
+            "wiktionary_name": "Burmese",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 3951
+        }
+    },
+    {
+        "lav_phonetic.tsv": {
+            "iso639_code": "lav",
+            "iso639_name": "Latvian",
+            "wiktionary_name": "Latvian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1331
+        }
+    },
+    {
+        "dut_phonemic.tsv": {
+            "iso639_code": "dut",
+            "iso639_name": "Dutch",
+            "wiktionary_name": "Dutch",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 21746
+        }
+    },
+    {
+        "ady_phonemic.tsv": {
+            "iso639_code": "ady",
+            "iso639_name": "Adyghe",
+            "wiktionary_name": "Adyghe",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 10
+        }
+    },
+    {
+        "wel_phonemic.tsv": {
+            "iso639_code": "wel",
+            "iso639_name": "Welsh",
+            "wiktionary_name": "Welsh",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 9670
+        }
+    },
+    {
+        "eng_phonetic.tsv": {
+            "iso639_code": "eng",
+            "iso639_name": "English",
+            "wiktionary_name": "English",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 2412
+        }
+    },
+    {
+        "eng_phonemic.tsv": {
+            "iso639_code": "eng",
+            "iso639_name": "English",
+            "wiktionary_name": "English",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 75740
+        }
+    },
+    {
+        "wel_phonetic.tsv": {
+            "iso639_code": "wel",
+            "iso639_name": "Welsh",
+            "wiktionary_name": "Welsh",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 484
+        }
+    },
+    {
+        "ady_phonetic.tsv": {
+            "iso639_code": "ady",
+            "iso639_name": "Adyghe",
+            "wiktionary_name": "Adyghe",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 4554
+        }
+    },
+    {
+        "lav_phonemic.tsv": {
+            "iso639_code": "lav",
+            "iso639_name": "Latvian",
+            "wiktionary_name": "Latvian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 15
+        }
+    },
+    {
+        "dut_phonetic.tsv": {
+            "iso639_code": "dut",
+            "iso639_name": "Dutch",
+            "wiktionary_name": "Dutch",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 642
+        }
+    },
+    {
+        "dan_phonetic.tsv": {
+            "iso639_code": "dan",
+            "iso639_name": "Danish",
+            "wiktionary_name": "Danish",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 4297
+        }
+    },
+    {
+        "epo_phonetic.tsv": {
+            "iso639_code": "epo",
+            "iso639_name": "Esperanto",
+            "wiktionary_name": "Esperanto",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 5
+        }
+    },
+    {
+        "per_phonemic.tsv": {
+            "iso639_code": "per",
+            "iso639_name": "Persian",
+            "wiktionary_name": "Persian",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 3362
+        }
+    },
+    {
+        "bul_phonetic.tsv": {
+            "iso639_code": "bul",
+            "iso639_name": "Bulgarian",
+            "wiktionary_name": "Bulgarian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 93
+        }
+    },
+    {
+        "ara_phonetic.tsv": {
+            "iso639_code": "ara",
+            "iso639_name": "Arabic",
+            "wiktionary_name": "Arabic",
+            "casefold": "False",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 143
+        }
+    },
+    {
+        "jpn_phonetic.tsv": {
+            "iso639_code": "jpn",
+            "iso639_name": "Japanese",
+            "wiktionary_name": "Japanese",
+            "casefold": "False",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 24585
+        }
+    },
+    {
+        "cze_phonemic.tsv": {
+            "iso639_code": "cze",
+            "iso639_name": "Czech",
+            "wiktionary_name": "Czech",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 3468
+        }
+    },
+    {
+        "ukr_phonetic.tsv": {
+            "iso639_code": "ukr",
+            "iso639_name": "Ukrainian",
+            "wiktionary_name": "Ukrainian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1642
+        }
+    },
+    {
+        "vie_phonemic.tsv": {
+            "iso639_code": "vie",
+            "iso639_name": "Vietnamese",
+            "wiktionary_name": "Vietnamese",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 27
+        }
+    },
+    {
+        "spa_phonetic.tsv": {
+            "iso639_code": "spa",
+            "iso639_name": "Spanish",
+            "wiktionary_name": "Spanish",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 48315
+        }
+    },
+    {
+        "kur_phonetic.tsv": {
+            "iso639_code": "kur",
+            "iso639_name": "Kurdish",
+            "wiktionary_name": "Kurdish",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 89
+        }
+    },
+    {
+        "vie_phonetic.tsv": {
+            "iso639_code": "vie",
+            "iso639_name": "Vietnamese",
+            "wiktionary_name": "Vietnamese",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 13136
+        }
+    },
+    {
+        "kur_phonemic.tsv": {
+            "iso639_code": "kur",
+            "iso639_name": "Kurdish",
+            "wiktionary_name": "Kurdish",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 1131
+        }
+    },
+    {
+        "spa_phonemic.tsv": {
+            "iso639_code": "spa",
+            "iso639_name": "Spanish",
+            "wiktionary_name": "Spanish",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 56409
+        }
+    },
+    {
+        "ara_phonemic.tsv": {
+            "iso639_code": "ara",
+            "iso639_name": "Arabic",
+            "wiktionary_name": "Arabic",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 5083
+        }
+    },
+    {
+        "jpn_phonemic.tsv": {
+            "iso639_code": "jpn",
+            "iso639_name": "Japanese",
+            "wiktionary_name": "Japanese",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 130
+        }
+    },
+    {
+        "ukr_phonemic.tsv": {
+            "iso639_code": "ukr",
+            "iso639_name": "Ukrainian",
+            "wiktionary_name": "Ukrainian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 215
+        }
+    },
+    {
+        "cze_phonetic.tsv": {
+            "iso639_code": "cze",
+            "iso639_name": "Czech",
+            "wiktionary_name": "Czech",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 19672
+        }
+    },
+    {
+        "bul_phonemic.tsv": {
+            "iso639_code": "bul",
+            "iso639_name": "Bulgarian",
+            "wiktionary_name": "Bulgarian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 34828
+        }
+    },
+    {
+        "per_phonetic.tsv": {
+            "iso639_code": "per",
+            "iso639_name": "Persian",
+            "wiktionary_name": "Persian",
+            "casefold": "False",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 2561
+        }
+    },
+    {
+        "swe_phonemic.tsv": {
+            "iso639_code": "swe",
+            "iso639_name": "Swedish",
+            "wiktionary_name": "Swedish",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 2641
+        }
+    },
+    {
+        "bel_phonemic.tsv": {
+            "iso639_code": "bel",
+            "iso639_name": "Belarusian",
+            "wiktionary_name": "Belarusian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 5
+        }
+    },
+    {
+        "slo_phonetic.tsv": {
+            "iso639_code": "slo",
+            "iso639_name": "Slovak",
+            "wiktionary_name": "Slovak",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 297
+        }
+    },
+    {
+        "fin_phonetic.tsv": {
+            "iso639_code": "fin",
+            "iso639_name": "Finnish",
+            "wiktionary_name": "Finnish",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 37630
+        }
+    },
+    {
+        "gre_phonetic.tsv": {
+            "iso639_code": "gre",
+            "iso639_name": "Modern Greek (1453-)",
+            "wiktionary_name": "Greek",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 424
+        }
+    },
+    {
+        "bak_phonemic.tsv": {
+            "iso639_code": "bak",
+            "iso639_name": "Bashkir",
+            "wiktionary_name": "Bashkir",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 87
+        }
+    },
+    {
+        "nno_phonemic.tsv": {
+            "iso639_code": "nno",
+            "iso639_name": "Norwegian Nynorsk",
+            "wiktionary_name": "Norwegian Nynorsk",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 1110
+        }
+    },
+    {
+        "arc_phonetic.tsv": {
+            "iso639_code": "arc",
+            "iso639_name": "Official Aramaic (700-300 BCE)",
+            "wiktionary_name": "Aramaic",
+            "casefold": "False",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 4
+        }
+    },
+    {
+        "nor_phonetic.tsv": {
+            "iso639_code": "nor",
+            "iso639_name": "Norwegian",
+            "wiktionary_name": "Norwegian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 59
+        }
+    },
+    {
+        "gre_phonemic.tsv": {
+            "iso639_code": "gre",
+            "iso639_name": "Modern Greek (1453-)",
+            "wiktionary_name": "Greek",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 7653
+        }
+    },
+    {
+        "bak_phonetic.tsv": {
+            "iso639_code": "bak",
+            "iso639_name": "Bashkir",
+            "wiktionary_name": "Bashkir",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1968
+        }
+    },
+    {
+        "nno_phonetic.tsv": {
+            "iso639_code": "nno",
+            "iso639_name": "Norwegian Nynorsk",
+            "wiktionary_name": "Norwegian Nynorsk",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 156
+        }
+    },
+    {
+        "arc_phonemic.tsv": {
+            "iso639_code": "arc",
+            "iso639_name": "Official Aramaic (700-300 BCE)",
+            "wiktionary_name": "Aramaic",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 1169
+        }
+    },
+    {
+        "nor_phonemic.tsv": {
+            "iso639_code": "nor",
+            "iso639_name": "Norwegian",
+            "wiktionary_name": "Norwegian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 2147
+        }
+    },
+    {
+        "fin_phonemic.tsv": {
+            "iso639_code": "fin",
+            "iso639_name": "Finnish",
+            "wiktionary_name": "Finnish",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 37663
+        }
+    },
+    {
+        "slo_phonemic.tsv": {
+            "iso639_code": "slo",
+            "iso639_name": "Slovak",
+            "wiktionary_name": "Slovak",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 3792
+        }
+    },
+    {
+        "bel_phonetic.tsv": {
+            "iso639_code": "bel",
+            "iso639_name": "Belarusian",
+            "wiktionary_name": "Belarusian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1163
+        }
+    },
+    {
+        "swe_phonetic.tsv": {
+            "iso639_code": "swe",
+            "iso639_name": "Swedish",
+            "wiktionary_name": "Swedish",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 142
+        }
+    },
+    {
+        "lat_phonetic.tsv": {
+            "iso639_code": "lat",
+            "iso639_name": "Latin",
+            "wiktionary_name": "Latin",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 32113
+        }
+    },
+    {
+        "cat_phonemic.tsv": {
+            "iso639_code": "cat",
+            "iso639_name": "Catalan",
+            "wiktionary_name": "Catalan",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 44952
+        }
+    },
+    {
+        "ice_phonemic.tsv": {
+            "iso639_code": "ice",
+            "iso639_name": "Icelandic",
+            "wiktionary_name": "Icelandic",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 9378
+        }
+    },
+    {
+        "grc_phonetic.tsv": {
+            "iso639_code": "grc",
+            "iso639_name": "Ancient Greek (to 1453)",
+            "wiktionary_name": "Ancient Greek",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 2
+        }
+    },
+    {
+        "sga_phonetic.tsv": {
+            "iso639_code": "sga",
+            "iso639_name": "Old Irish (to 900)",
+            "wiktionary_name": "Old Irish",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 4
+        }
+    },
+    {
+        "slv_phonemic.tsv": {
+            "iso639_code": "slv",
+            "iso639_name": "Slovenian",
+            "wiktionary_name": "Slovene",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 4439
+        }
+    },
+    {
+        "hin_phonetic.tsv": {
+            "iso639_code": "hin",
+            "iso639_name": "Hindi",
+            "wiktionary_name": "Hindi",
+            "casefold": "False",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 264
+        }
+    },
+    {
+        "fre_phonemic.tsv": {
+            "iso639_code": "fre",
+            "iso639_name": "French",
+            "wiktionary_name": "French",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 52245
+        }
+    },
+    {
+        "ita_phonemic.tsv": {
+            "iso639_code": "ita",
+            "iso639_name": "Italian",
+            "wiktionary_name": "Italian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 9542
+        }
+    },
+    {
+        "ita_phonetic.tsv": {
+            "iso639_code": "ita",
+            "iso639_name": "Italian",
+            "wiktionary_name": "Italian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 5480
+        }
+    },
+    {
+        "fre_phonetic.tsv": {
+            "iso639_code": "fre",
+            "iso639_name": "French",
+            "wiktionary_name": "French",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 211
+        }
+    },
+    {
+        "hin_phonemic.tsv": {
+            "iso639_code": "hin",
+            "iso639_name": "Hindi",
+            "wiktionary_name": "Hindi",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 7928
+        }
+    },
+    {
+        "sga_phonemic.tsv": {
+            "iso639_code": "sga",
+            "iso639_name": "Old Irish (to 900)",
+            "wiktionary_name": "Old Irish",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 1676
+        }
+    },
+    {
+        "slv_phonetic.tsv": {
+            "iso639_code": "slv",
+            "iso639_name": "Slovenian",
+            "wiktionary_name": "Slovene",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 2
+        }
+    },
+    {
+        "grc_phonemic.tsv": {
+            "iso639_code": "grc",
+            "iso639_name": "Ancient Greek (to 1453)",
+            "wiktionary_name": "Ancient Greek",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 153117
+        }
+    },
+    {
+        "ice_phonetic.tsv": {
+            "iso639_code": "ice",
+            "iso639_name": "Icelandic",
+            "wiktionary_name": "Icelandic",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 338
+        }
+    },
+    {
+        "cat_phonetic.tsv": {
+            "iso639_code": "cat",
+            "iso639_name": "Catalan",
+            "wiktionary_name": "Catalan",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 11
+        }
+    },
+    {
+        "lat_phonemic.tsv": {
+            "iso639_code": "lat",
+            "iso639_name": "Latin",
+            "wiktionary_name": "Latin",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 36074
+        }
+    },
+    {
+        "tur_phonemic.tsv": {
+            "iso639_code": "tur",
+            "iso639_name": "Turkish",
+            "wiktionary_name": "Turkish",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 1734
+        }
+    },
+    {
+        "ger_phonetic.tsv": {
+            "iso639_code": "ger",
+            "iso639_name": "German",
+            "wiktionary_name": "German",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 10243
+        }
+    },
+    {
+        "tgl_phonetic.tsv": {
+            "iso639_code": "tgl",
+            "iso639_name": "Tagalog",
+            "wiktionary_name": "Tagalog",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 14
+        }
+    },
+    {
+        "syc_phonetic.tsv": {
+            "iso639_code": "syc",
+            "iso639_name": "Classical Syriac",
+            "wiktionary_name": "Classical Syriac",
+            "casefold": "False",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 6258
+        }
+    },
+    {
+        "mlt_phonemic.tsv": {
+            "iso639_code": "mlt",
+            "iso639_name": "Maltese",
+            "wiktionary_name": "Maltese",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 1934
+        }
+    },
+    {
+        "asm_phonemic.tsv": {
+            "iso639_code": "asm",
+            "iso639_name": "Assamese",
+            "wiktionary_name": "Assamese",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 2206
+        }
+    },
+    {
+        "gla_phonetic.tsv": {
+            "iso639_code": "gla",
+            "iso639_name": "Scottish Gaelic",
+            "wiktionary_name": "Scottish Gaelic",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 119
+        }
+    },
+    {
+        "ind_phonemic.tsv": {
+            "iso639_code": "ind",
+            "iso639_name": "Indonesian",
+            "wiktionary_name": "Indonesian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 1111
+        }
+    },
+    {
+        "gla_phonemic.tsv": {
+            "iso639_code": "gla",
+            "iso639_name": "Scottish Gaelic",
+            "wiktionary_name": "Scottish Gaelic",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 894
+        }
+    },
+    {
+        "ind_phonetic.tsv": {
+            "iso639_code": "ind",
+            "iso639_name": "Indonesian",
+            "wiktionary_name": "Indonesian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 21
+        }
+    },
+    {
+        "asm_phonetic.tsv": {
+            "iso639_code": "asm",
+            "iso639_name": "Assamese",
+            "wiktionary_name": "Assamese",
+            "casefold": "False",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 61
+        }
+    },
+    {
+        "mlt_phonetic.tsv": {
+            "iso639_code": "mlt",
+            "iso639_name": "Maltese",
+            "wiktionary_name": "Maltese",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 21
+        }
+    },
+    {
+        "zul_phonemic.tsv": {
+            "iso639_code": "zul",
+            "iso639_name": "Zulu",
+            "wiktionary_name": "Zulu",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 915
+        }
+    },
+    {
+        "tgl_phonemic.tsv": {
+            "iso639_code": "tgl",
+            "iso639_name": "Tagalog",
+            "wiktionary_name": "Tagalog",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 1377
+        }
+    },
+    {
+        "rus_phonetic.tsv": {
+            "iso639_code": "rus",
+            "iso639_name": "Russian",
+            "wiktionary_name": "Russian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 389630
+        }
+    },
+    {
+        "syc_phonemic.tsv": {
+            "iso639_code": "syc",
+            "iso639_name": "Classical Syriac",
+            "wiktionary_name": "Classical Syriac",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 53
+        }
+    },
+    {
+        "ger_phonemic.tsv": {
+            "iso639_code": "ger",
+            "iso639_name": "German",
+            "wiktionary_name": "German",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 25212
+        }
+    },
+    {
+        "tur_phonetic.tsv": {
+            "iso639_code": "tur",
+            "iso639_name": "Turkish",
+            "wiktionary_name": "Turkish",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 2020
+        }
+    },
+    {
+        "rum_phonetic.tsv": {
+            "iso639_code": "rum",
+            "iso639_name": "Romanian",
+            "wiktionary_name": "Romanian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 4330
+        }
+    },
+    {
+        "san_phonetic.tsv": {
+            "iso639_code": "san",
+            "iso639_name": "Sanskrit",
+            "wiktionary_name": "Sanskrit",
+            "casefold": "False",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 451
+        }
+    },
+    {
+        "may_phonetic.tsv": {
+            "iso639_code": "may",
+            "iso639_name": "Malay (macrolanguage)",
+            "wiktionary_name": "Malay",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 660
+        }
+    },
+    {
+        "nci_phonemic.tsv": {
+            "iso639_code": "nci",
+            "iso639_name": "Classical Nahuatl",
+            "wiktionary_name": "Classical Nahuatl",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 796
+        }
+    },
+    {
+        "hun_phonemic.tsv": {
+            "iso639_code": "hun",
+            "iso639_name": "Hungarian",
+            "wiktionary_name": "Hungarian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 2
+        }
+    },
+    {
+        "glg_phonetic.tsv": {
+            "iso639_code": "glg",
+            "iso639_name": "Galician",
+            "wiktionary_name": "Galician",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 106
+        }
+    },
+    {
+        "ido_phonemic.tsv": {
+            "iso639_code": "ido",
+            "iso639_name": "Ido",
+            "wiktionary_name": "Ido",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 4911
+        }
+    },
+    {
+        "kor_phonetic.tsv": {
+            "iso639_code": "kor",
+            "iso639_name": "Korean",
+            "wiktionary_name": "Korean",
+            "casefold": "False",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 12740
+        }
+    },
+    {
+        "kor_phonemic.tsv": {
+            "iso639_code": "kor",
+            "iso639_name": "Korean",
+            "wiktionary_name": "Korean",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 25
+        }
+    },
+    {
+        "ido_phonetic.tsv": {
+            "iso639_code": "ido",
+            "iso639_name": "Ido",
+            "wiktionary_name": "Ido",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 9
+        }
+    },
+    {
+        "nci_phonetic.tsv": {
+            "iso639_code": "nci",
+            "iso639_name": "Classical Nahuatl",
+            "wiktionary_name": "Classical Nahuatl",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 1181
+        }
+    },
+    {
+        "hun_phonetic.tsv": {
+            "iso639_code": "hun",
+            "iso639_name": "Hungarian",
+            "wiktionary_name": "Hungarian",
+            "casefold": "True",
+            "transcription_level": "Phonetic",
+            "num_of_entries": 43525
+        }
+    },
+    {
+        "glg_phonemic.tsv": {
+            "iso639_code": "glg",
+            "iso639_name": "Galician",
+            "wiktionary_name": "Galician",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 4529
+        }
+    },
+    {
+        "may_phonemic.tsv": {
+            "iso639_code": "may",
+            "iso639_name": "Malay (macrolanguage)",
+            "wiktionary_name": "Malay",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 2503
+        }
+    },
+    {
+        "san_phonemic.tsv": {
+            "iso639_code": "san",
+            "iso639_name": "Sanskrit",
+            "wiktionary_name": "Sanskrit",
+            "casefold": "False",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 5306
+        }
+    },
+    {
+        "rum_phonemic.tsv": {
+            "iso639_code": "rum",
+            "iso639_name": "Romanian",
+            "wiktionary_name": "Romanian",
+            "casefold": "True",
+            "transcription_level": "Phonemic",
+            "num_of_entries": 3108
+        }
+    }
+]
