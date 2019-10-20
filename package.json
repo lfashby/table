@@ -7,7 +7,7 @@
     "react-dom": "^16.10.2",
     "react-scripts": "0.9.5"
   },
-  "homepage": "http://{lfashby}.github.io/{table}",
+  "homepage": "http://lfashby.github.io/table",
   "devDependencies": {
     "gh-pages": "^2.1.1"
   },

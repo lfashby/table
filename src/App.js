@@ -8,12 +8,16 @@ class App extends React.Component {
         super(props);
         this.state = {
             readme: data,
-            readmeCopy: data
+            readmeCopy: data,
+            clicked: true,
+            prev: '',
+            reverse: false
         }
         this.isoCodeRef = React.createRef();
         this.isoCodeLangRef = React.createRef();
         this.wikiNameRef = React.createRef();
         this.filterTable = this.filterTable.bind(this);
+        this.onSort = this.onSort.bind(this)
     }
 
     componentDidMount() {
@@ -21,6 +25,7 @@ class App extends React.Component {
     }
 
     onSort(e, toSort) {
+        var reverse = this.state.reverse
         if (e) {
             this.isoCodeLangRef.current.style.color = "black"    
             this.isoCodeRef.current.style.color = "black"
@@ -30,22 +35,42 @@ class App extends React.Component {
             this.wikiNameRef.current.style.color = "blue" // initialize with wiki blue
         }
         let vals = [...this.state.readmeCopy]
-        vals.sort(function(a, b) {
-            let a_access = Object.keys(a)[0]
-            let b_access = Object.keys(b)[0]
-            if (a[a_access][toSort] < b[b_access][toSort]) {
+        if (this.state.prev === e.target) {
+            reverse = !reverse
+        }
+        if (!reverse) {
+            vals.sort(function(a, b) {
+                let a_access = Object.keys(a)[0]
+                let b_access = Object.keys(b)[0]
+                if (a[a_access][toSort] < b[b_access][toSort]) {
+                    return -1
+                }
+                return 1
+            })
+        } else {
+            vals.sort(function (a, b) {
+                let a_access = Object.keys(a)[0]
+                let b_access = Object.keys(b)[0]
+                if (a[a_access][toSort] < b[b_access][toSort]) {
+                    return 1
+                }
                 return -1
-            } 
-            return 1
-        })
+            })
+        }
         // Need to sort both of these to start
         this.setState({
             readmeCopy: vals,
-            readme: vals.length === this.state.readme.length?vals:this.state.readme
+            readme: vals.length === this.state.readme.length?vals:this.state.readme,
+            clicked: !this.state.clicked,
+            prev: e.target,
+            reverse
         })
     }
 
     filterTable(e) {
+        if (e) {
+            e.preventDefault()
+        }
         let filteredVals = this.state.readme.filter((ele) => {
             let ele_access = Object.keys(ele)[0];
             let val = ele[ele_access]["wiktionary_name"].slice(0, e.target.value.length).toLowerCase()
@@ -64,9 +89,9 @@ class App extends React.Component {
         return (
         <div>
             <form>
-                <input type="text" name="name" placeholder="Filter by Wiki language name" onChange={this.filterTable} />
+                <input type="text" autoComplete="off" name="name" placeholder="Filter by Wiki language name" onChange={this.filterTable} />
             </form>
-            <table>
+            <table id="lang_table">
                 <tbody>
                     <tr>
                         <th>Link</th>
